@@ -1,28 +1,28 @@
-# Laborator1IP Andrieș Andrei, Stanciu Victor grupa B1
+# Ingineria Programarii - Laborator 1; Andrieș Andrei, Stanciu Victor Nicolae
 
-În programul nostu avem:
+În programul nostru avem:
 
-- Interfata "Animal" care este părintele tuturor claselor din programul nostru
+- Interfața "Animal", care este părintele tuturor claselor;
 
-- Clasele abstracte "Fish", "Mammal" și "Bird" care moștenesc atributele interfeței "Animal".
+- Clasele abstracte "Fish", "Mammal" și "Bird", care moștenesc atributele interfeței "Animal";
 
-- Clasa "Shark" care moștenește artibutele clasei abstracte "Fish"
+- Clasa "Shark", care moștenește atributele clasei abstracte "Fish";
 
-- Clasa "HammerShark" care mosteneste atributele clasei "Shark"
+- Clasa "HammerShark", care moștenește atributele clasei "Shark;
 
-- Clasa "Wolf" care moștenește atributele clasei absracte "Mammal"
+- Clasa "Wolf", care moștenește atributele clasei abstracte "Mammal";
 
-- Clasa "WhiteWolf" care mosteneste atributele clasei "Wolf"
+- Clasa "WhiteWolf", care moștenește atributele clasei "Wolf";
 
-- Clasa "Kangaroo" care moștenește atributele clasei absracte "Mammal"
+- Clasa "Kangaroo", care moștenește atributele clasei abstracte "Mammal";
 
-- Clasa "Eagle" care moștenește atributele clasei absracte "Bird"
+- Clasa "Eagle", care moștenește atributele clasei abstracte "Bird";
 
-În clasele: "Shark", "Wolf", "Eagle" și "Kangaroo" se realizează polimorfismul static.
+În clasele: "Shark", "Wolf", "Eagle" și "Kangaroo" se realizează polimorfismul static;
 
-Între clasele "Wolf-WhiteWolf" și "Shark-HammerShark" se realizează polimorfismul dinamic.
+Între clasele "Wolf-WhiteWolf" și "Shark-HammerShark" se realizează polimorfismul dinamic;
 
-Main-ul se află în clasa Zoo.
+Main-ul se află în clasa Zoo;
 
-Output-ul se printează în fișierul text output.txt
+Output-ul se printează în fișierul text output.txt.
 
